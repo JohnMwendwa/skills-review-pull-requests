@@ -14,44 +14,29 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 3 >>>
+  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
-  Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-## Step 3: Leave a review
+## Step 4: Suggest changes
 
-_You assigned yourself! :tada:_
+_Nice work reviewing that pull request :sparkles:_
 
-Pull request reviews ensure quality and maintain momentum of changes to your project.
+Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
 
-#### When reviewing a pull request:
+**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
 
-1. Review the _title_ and _body_ of the pull request, and possibly any associated issue, to understand the intended change.
-1. Review the [diff](https://docs.github.com/en/get-started/quickstart/github-glossary#diff), the comparison of the proposed code, in the context of the whole project.
-1. For most things, try out the proposed change. Check if the actual change matches the intention. Find the repository's [contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to find out how to review the changes.
-
-#### In your review comments:
-
-- Identify potential issues, risks, and limitations.
-- Suggest changes and improvements.
-- Share awareness of upcoming changes that the pull request doesn't account for.
-- Ask questions to verify shared understanding.
-- Highlight what the author did well and should keep doing.
-- Prioritize the most important feedback.
-- Be concise _and_ provide meaningful detail.
-- Treat the pull request author with kindness and empathy.
-
-When an approval or request for changes is not yet needed, consider using **comments**. An **approval** lets the author know you believe the pull request is safe to merge. **Requesting changes** lets the author know you believe the pull request is not ready to merge.
-
-### :keyboard: Activity: Leave a review
+### :keyboard: Activity: Suggest changes
 
 1. On the pull request, click **Files changed**.
-1. Click **Review changes**.
-1. Add a comment with your initial thoughts on the pull request.
-1. Select _comment_. You won't be able to _approve_ or _request changes_ to your own pull request.
-1. Click **Submit review**.
+1. Find the `index.html` changes.
+1. Hover your cursor next to the line numbers on the left side of the page.
+1. Click the blue plus icon.
+1. After the comment form appears, click the **Add a suggestion** button. <br>
+   ![add-a-suggestion-button](https://user-images.githubusercontent.com/97056108/184449714-61e8ee51-824a-48c1-9436-2dfd67f2c070.png)
+1. Edit the suggestion.
+1. Click **Add a single comment**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
